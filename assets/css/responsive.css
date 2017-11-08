@@ -1,0 +1,396 @@
+
+
+@media (min-width: 1400px) and (max-width: 4000px) {
+	.ehtica-ethica
+	{
+		width:1200px;
+		margin:0 auto;
+	}
+	.login .btn-success {
+   
+    padding: 7px 23px;
+	}
+	.login .btn-primary {
+   
+    padding: 7px 23px;
+	}
+	
+	.login .btn-secondary {
+ 
+    padding: 5px 23px;
+	}
+	.ehtica-menu .navbar-inverse .navbar-nav > li > a {
+
+   font-size: 13px;
+   padding: 10px 4px;
+	}
+.ehtica-menu .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+  width:1200px;
+    
+    right: 0;
+    margin: 0 auto;
+}
+}
+
+
+
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+	.login ul li {
+    padding-left: 0px;
+}
+
+
+
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+.login .btn-primary {
+   
+    padding: 5px 20px;
+    font-size: 13px;
+}
+.login .btn-success
+{
+	 padding: 5px 20px;
+    font-size: 13px;
+}
+.login .btn-secondary
+{
+	padding: 4px 20px;
+    font-size: 13px;
+}
+.login {
+    margin-top: 79px;
+}
+.login-panel {
+ 
+    right: 0;
+}
+.square img {
+  
+    display: none;
+}
+.collection {
+  
+    top: 49%;
+    left: 28%;
+}
+.collection h2 {
+  
+    color: #000;
+}
+.collection h3 {
+   
+    font-size: 25px;
+    color: #000;
+    margin-left: -16px;
+}
+.testimonial h3 {
+  
+    font-size: 27px;
+}
+.touch-ehtica {
+    border: 3px solid #EBDABE;
+}
+
+
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.mart .btn {
+    display: inline-block;
+    padding: 6px 7px;
+}
+.ehtica .btn-group > .btn:first-child {
+  
+    font-size: 13px;
+}
+.welcome1 ul li a {
+ 
+    font-size: 13px;
+}
+
+.search-ehtica {
+    margin-top: 30px;
+}
+.cart-ehtica {
+    margin-top: 46px;
+	padding-left: 0;
+}
+.login {
+    margin-top: 40px;
+}
+.logo img {
+    margin: 0 auto;
+}
+.login .btn-primary {
+   
+    padding: 5px 12px;
+    font-size: 12px;
+}
+.login .btn-success
+{
+	 padding: 5px 12px;
+    font-size: 12px;
+}
+.login .btn-secondary
+{
+	padding: 4px 12px;
+    font-size: 12px;
+}
+.cart-ehtica .list-inline > li {
+    display: inline-block;
+    padding-right: 0;
+    padding-left: 0;
+}
+.login-panel {
+    
+    left: 10px;
+}
+.back-image img {
+    margin: 0 auto;
+}
+.back-image1 img {
+    margin: 0 auto;
+}
+
+.collection {
+  
+    top: 45%;
+    left: 22%
+}
+.collection h2 {
+  
+    color: #000;
+}
+.collection h3 {
+   
+    font-size: 25px;
+    color: #000;
+    margin-left: -16px;
+}
+.square img {
+  
+    display: none;
+}
+.touch-ehtica {
+    border: 3px solid #EBDABE;
+}
+.ehtica-menu .container-fluid
+{
+	padding-left:15px;
+	padding-right:15px;
+}
+.indicators-line > .carousel-indicators {
+    right: 36%;
+}
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+.ehtica .col-md-6 {
+    padding-left: 0;
+    padding-right: 0;
+}
+.ehtica .btn-group > .btn:first-child {
+  
+    font-size: 12px;
+}
+.shopmart {
+   
+    font-size: 12px;
+}
+.welcome .list-inline > li {
+   
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.welcome1 .list-inline > li {
+   
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.welcome1 ul li a {
+   
+    font-size: 12px;
+}
+.mart .btn {
+ 
+    padding: 6px 2px;
+}
+.welcome1 {
+    float: none;
+}
+.logo img {
+    margin: 0 auto;
+}
+.search-ehtica {
+    margin-top: 30px;
+}
+.cart-ehtica {
+    margin-top: 16px;
+	padding-left: 0;
+}
+.login-panel {
+    float: left;
+}
+.login .btn-primary {
+   
+    padding: 5px 19px;
+    font-size: 12px;
+}
+.login .btn-success
+{
+	 padding: 5px 19px;
+    font-size: 12px;
+}
+.login .btn-secondary
+{
+	padding: 5px 19px;
+    font-size: 12px;
+}
+.login {
+    margin-top: 40px;
+}
+.login-panel {
+   
+    right: 0;
+}
+.back-image img {
+    margin: 0 auto;
+}
+.back-image1 img {
+    margin: 0 auto;
+}
+.ehtica-menu #bs-example-navbar-collapse-1 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.for-all h1
+{
+	font-size: 29px;
+}
+.for-all p {
+   
+    font-size: 15px;
+    width: 100%;
+}
+.collection {
+  
+    top: 38%;
+    left: 16%;
+}
+.collection h2 {
+  
+    color: #000;
+}
+.collection h3 {
+   
+    font-size: 25px;
+    color: #000;
+    margin-left: -16px;
+}
+.square img {
+  
+    display: none;
+}
+.touch-ehtica {
+    border: 3px solid #EBDABE;
+}
+.testimonial h3 {
+
+    font-size: 24px;
+}
+.fft-ehtica .media-carousel img {
+    width: auto;
+    height: auto;
+ 
+	margin: 22px auto;
+}
+.social-icon li {
+   
+    margin-left: 4px;
+}
+.ehtica-menu .container-fluid
+{
+	padding-left:15px;
+	padding-right:15px;
+}
+.amazon h1 {
+   
+    font-size: 22px;
+   
+    padding: 0;
+}
+.easy-amazon h2 {
+  
+    font-size: 21px;
+}
+.direct {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.commerce-ehtica {
+   
+    bottom: 44px;
+ 
+}
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+.ehtica-menu .navbar-collapse.collapse {
+	display: none !important;
+}
+.ehtica-menu .navbar-collapse.collapse.in {
+	display: block !important;
+}
+.navbar-header .collapse, .navbar-toggle {
+	display: block !important;
+}
+.ehtica-menu .navbar-header {
+	float: none;
+}
+.navbar-collapse {
+/*border-top: 1px solid transparent;
+	box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);*/
+}
+.ehtica-menu .navbar-nav {
+	float: none!important;
+	margin: 7.5px -15px;
+}
+.ehtica-menu .navbar-nav>li {
+	float: none;
+}
+.ehtica-menu .navbar-nav>li>a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.ehtica-menu .navbar-default .navbar-brand {
+	color: #FFF;
+}
+.ehtica-menu .navbar-default .navbar-toggle .icon-bar {
+	background-color: #FFF;
+}
+
+.ehtica-menu #bs-example-navbar-collapse-1 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+}
+
