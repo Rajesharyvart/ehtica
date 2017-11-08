@@ -14,7 +14,7 @@ $dbname = "aryvaqku_projector";
 //$password = '8#=HKfze$K0x';
 //$dbname = "aryvaqku_projector";
 
-
+//test
 
 $conn = mysqli_connect($servername, $username, $password, $dbname) or die("Connection failed: " . mysqli_connect_error());
 
