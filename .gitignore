@@ -15,5 +15,11 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+
+/nbproject/*
 /nbproject/private/
+
 /uploads/
+
+/application/config/config.php
+/application/config/database.php
