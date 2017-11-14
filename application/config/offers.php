@@ -6,8 +6,7 @@ if (!defined('BASEPATH'))
 $config['site_logo'] = '/assets/img/logo.png';
 
 $config['email'] = 'test@gmail.com';
-$config['company_name'] = 'Projector';
-
+$config['company_name'] = 'Reload';
 
 /*
  * Pagination : pre page

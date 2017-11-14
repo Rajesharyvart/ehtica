@@ -34,6 +34,8 @@ $admin_url = base_url('admin');
           
         </li>
         <li><a href="<?php echo $admin_url; ?>/user"><i class="fa fa-book"></i> <span>User</span></a></li>
+        <li><a href="<?php echo $admin_url; ?>/product_category"><i class="fa fa-book"></i><span>Category</span></a></li>
+        <li><a href="<?php echo $admin_url; ?>/brand/listing"><i class="fa fa-book"></i> <span>Brand</span></a></li>
       </ul>
     </section>
     <!-- /.sidebar -->
